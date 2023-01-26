@@ -4,7 +4,13 @@ public class New {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("Herbert");
+		int a = 10;
+		int b = 10;
+		
+		if (a==b) {
+			System.out.println("Herbert");	
+		}
+		
 	}
 
 }
